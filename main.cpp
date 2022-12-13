@@ -1,6 +1,6 @@
 #include "lib.h"
 #include <iostream>
-using namespace std ;
+using namespace std;
 int main() {
     char nomi[10][20];
     char ricerca[20];
