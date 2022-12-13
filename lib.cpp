@@ -10,4 +10,5 @@ int funzione (char nomi[10][20], char ricerca[20]) {
             return i;
         }
     }
+    return 44;
 }
